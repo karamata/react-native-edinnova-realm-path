@@ -1,6 +1,6 @@
 {
-  "name": "react-native-realm-path",
-  "version": "1.2.11",
+  "name": "react-native-edinnova-realm-path",
+  "version": "0.0.1",
   "description": "A helper to Realm Path on AppGroup iOS.",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,11 @@
   "keywords": [
     "react-native"
   ],
-  "author": "Djorkaeff Alexandre",
+  "author": "Edinnova's Team",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
-  "homepage": "https://github.com/rocketchat/react-native-realm-path",
-  "repository": "https://github.com/rocketchat/react-native-realm-path"
+  "homepage": "https://github.com/karamata/react-native-edinnova-realm-path",
+  "repository": "https://github.com/karamata/react-native-edinnova-realm-path"
 }
