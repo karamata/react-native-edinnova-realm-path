@@ -1,6 +1,6 @@
 {
   "name": "react-native-edinnova-realm-path",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A helper to Realm Path on AppGroup iOS.",
   "main": "index.js",
   "scripts": {
